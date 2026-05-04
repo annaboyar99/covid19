@@ -5,7 +5,8 @@
 ## 📊 Демо / Скриншоты
 
 ![Пример дашборда](screenshots/dashboard.png)  
-*(Замените на реальный скриншот)*
+<img width="1381" height="792" alt="image" src="https://github.com/user-attachments/assets/2de404eb-df4b-404b-a9bd-c12517b33b64" />
+
 
 ## 🚀 Возможности
 
